@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/lydia_zeboudj">
+  <img src="https://api.daily.dev/devcards/c8d541b34c604841b85ed83048537058.png?r=p0y" width="400" alt="Lydia Zeboudj's Dev Card"/>
+</a>
