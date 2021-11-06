@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
 ### Repository View Counter - HITS
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/dzprojects)
+![](https://komarev.com/ghpvc/?username=dzprojects)
 
