@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 ## 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=dzprojects)
 ### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/dzprojects)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/dzprojects/dzprojects)
 
 
