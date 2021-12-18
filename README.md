@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ## 3. Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=dzprojects/private)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=dzprojects/private)
+
 
 ## 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=dzprojects)
