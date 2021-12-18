@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dzprojects&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzprojects)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzprojects&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## 3. Contributors Badge
