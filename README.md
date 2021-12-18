@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dzprojects&show_icons=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzprojects)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dzprojects&theme=blue-green)
+
 ## 3. Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=dzprojects/private)
 ## 5. Profile View Counter
