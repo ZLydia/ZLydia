@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I want to learn: .NET - Android - Xamarin - MySQL SERVER - Microsoft SQL SERVER - .NET CORE - ASP.NET - WCF-WPF - Angular - React JS - ADO.NET - Entity Framework - NUnit - Log4Net - Design: UML, design patterns, Enterprise Architect
-- MangoDB - La maintenance corrective et évolutive - Les tests, la recette, l’intégration et la mise en production
+- 🔭 I want to learn: .NET - Android - Xamarin - MySQL SERVER - Microsoft SQL SERVER - .NET CORE - ASP.NET - WCF-WPF - Angular - React JS - ADO.NET - Entity Framework - NUnit - Log4Net - Design: UML, design patterns, Enterprise Architect - La maintenance corrective et évolutive - Les tests, la recette, l’intégration et la mise en production
+ *MangoDB  - React JS - NodeJS - PHP - LARAVEL - Wordpress - Python - JavaEE - Angular - Flutter - Django - Git - web scrapping -
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
