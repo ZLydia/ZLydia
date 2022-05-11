@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Lydia 😊
 
 
 **dzprojects/dzprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,11 +8,10 @@ Here are some ideas to get you started:
 - 🔭 I working on...
 - 💻 I’m currently a Software Engineering student at USTHB.
 - 🔍 I'm looking for an internship in web development.
-- ✍️ I worked as a Content Writer within ETIC club, my 
+- ✍️ I worked as a Content Writer within ETIC club.
 - 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
+- 📫 How to reach me: 
 - ⚡ Fun fact: ...
 
 
