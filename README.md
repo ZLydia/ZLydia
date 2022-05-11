@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
- 🔭 I working on...
- 💻 I’m currently a Software Engineering student at USTHB.
- 🔍 I'm looking for an internship in web development.
- ✍️ I worked as a Content Writer within ETIC club, my 
+- 🔭 I working on...
+- 💻 I’m currently a Software Engineering student at USTHB.
+- 🔍 I'm looking for an internship in web development.
+- ✍️ I worked as a Content Writer within ETIC club, my 
 - 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
