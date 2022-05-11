@@ -14,6 +14,6 @@
 - 📫 Email me at : `@gmail.com`
 
 
-## 5. Profile View Counter
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=dzprojects)
 
