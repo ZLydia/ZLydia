@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🎯 I working on...
 - 💻 I’m currently a Software Engineering student at USTHB.
 - 🔍 I'm looking for an internship in web development.
-- ✍️ I worked as a Content Writer within ETIC club.
-- 🖌 I also had an experience in Graphic Design as a team member of School Of AI ALgiers club.
+- ✍️ I worked as a Content Writer within ETIC club for two years.
+- 🖌 I also have one year experience in graphic design as a team member of School Of AI Algiers club.
 
 - 📫 Email me at : 
 
