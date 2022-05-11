@@ -1,9 +1,9 @@
 ### Hello, I'm Lydia 😊
 
 
-**dzprojects/dzprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dzprojects/dzprojects** is a ✨ _special_ ✨ repository because its `README.md` 
 
-Here are some ideas to get you started:
+
 
 - 🎯 I working on...
 - 💻 I’m currently a Software Engineering student at USTHB.
