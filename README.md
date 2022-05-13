@@ -1,4 +1,4 @@
-### Hello, I'm _Lydia_  😊
+### Hello, I'm _Lydia_ ✨
  
 
 
