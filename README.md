@@ -2,7 +2,7 @@
  
 
 
-- 🔍 I'm looking for an internship in web development.
+- 🔍 I'm looking for an internship in web or mobile development .
 - 🎓 I have a Bachelor's degree in Computer Systems graduated from Algiers University 1.
 - 🎯 I’m currently preparing my Master's degree in Software Engineering at USTHB.
 - ✍️ I worked as a Content Writer within ETIC club for two years. You can find our articles [here](https://etic-club.medium.com/).
